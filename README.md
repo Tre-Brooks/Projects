@@ -1,2 +1,2 @@
 # Projects
-Projects that have been done
+This repository is full of some projects that I have completed.
